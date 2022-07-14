@@ -18,7 +18,7 @@
   * Hiển thị ngày giờ của giá trị nhiệt độ, độ ẩm thu được.
   * Triển khai biểu đồ đường của nhiệt độ, độ ẩm dựa trên thư viện Jpgraph.
   
-  <img src="./images/Bieudo_NhietDo-DoAm.PNG" width="850" height="250" />
+  <img src="./images/Bieudo_NhietDo-DoAm.PNG" width="850" height="400" />
 
 ## 🔧Installation setup
 
